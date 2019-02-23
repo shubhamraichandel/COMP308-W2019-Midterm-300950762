@@ -1,3 +1,10 @@
+/****************************************************
+     * File Name : db.js
+     * Author: Shubham Raichandel 
+     * StudentID: 300950762
+     * Web App name: COMP308-W2019-MidTerm-300950762
+****************************************************/
+
 module.exports = {
   //local MongoDB deployment ->
   //"URI": "mongodb://localhost/books308"

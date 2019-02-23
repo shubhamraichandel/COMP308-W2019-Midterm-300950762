@@ -1,4 +1,12 @@
-// moddules for node and express
+/***************************************************
+     * File Name : app.js
+     * Author: Shubham Raichandel 
+     * StudentID: 300950762
+     * Web App name: COMP308-W2019-MidTerm-300950762
+****************************************************/
+
+
+// modules for node and express
 let createError = require('http-errors');
 let express = require('express');
 let path = require('path');
